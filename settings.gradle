@@ -1,0 +1,4 @@
+rootProject.name = "Submission Android Developer Expert"
+
+include ':app'
+include ':favorite'
