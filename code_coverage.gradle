@@ -1,6 +1,11 @@
 apply plugin: "jacoco"
 
+/*
+    running ./gradlew :module_name:debugCodeCoverage
+*/
+
 jacoco {
+    toolVersion = "0.8.7"
     reportsDir = file("$buildDir/${project.name}_code_coverage")
 }
 

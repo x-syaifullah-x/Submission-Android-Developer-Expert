@@ -61,8 +61,8 @@ dependencies {
 
     api "com.github.x-syaifullah-x.android-module-base:base_presentation:0.0.100"
 
-    api "com.github.x-syaifullah-x.android-module-the-movie-db:the_movie_db_di:0.0.100"
-    api "com.github.x-syaifullah-x.android-module-the-movie-db:the_movie_db_domain:0.0.100"
+    api "com.github.x-syaifullah-x.android-module-the-movie-db:the_movie_db_di:0.0.200"
+    api "com.github.x-syaifullah-x.android-module-the-movie-db:the_movie_db_domain:0.0.200"
 
     api "androidx.legacy:legacy-support-v4:1.0.0"
 
@@ -74,7 +74,7 @@ dependencies {
     api "com.intuit.ssp:ssp-android:1.0.6"
 
     api "com.google.android.play:core:1.10.0"
-    api "com.elyeproj.libraries:loaderviewlibrary:2.0.0"
+    api "io.github.elye:loaderviewlibrary:3.0.0"
     api "com.airbnb.android:lottie:3.5.0"
 
     implementation "androidx.navigation:navigation-dynamic-features-fragment:2.3.5"
